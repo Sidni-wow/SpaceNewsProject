@@ -36,33 +36,41 @@
             <nav>
                 <div class="row">
                     <div class="col-xs-1 col-md-1 col-lg-1"></div>
-                    <a>
-                        <div class="col-xs-2 col-md-2 col-lg-2 nav-block-science">
-                            <div class="nav-div">
-                                <span class="text-center">Наука</span>
-                            </div>
+					<a>
+                        <div class="col-xs-2 col-md-2 col-lg-2">
+                            <div class="nav-block-science">
+								<div class="nav-div">
+									<span class="text-center">Наука</span>
+								</div>
+							</div>
                         </div>
                     </a>
                     <a>
-                        <div class="col-xs-2 col-md-2 col-lg-2 nav-block-technical">
-                            <div class="nav-div">
-                                <span class="text-center">Технологии</span>
-                            </div>
+                        <div class="col-xs-2 col-md-2 col-lg-2">
+                            <div class="nav-block-technical">
+								<div class="nav-div">
+									<span class="text-center">Технологии</span>
+								</div>
+							</div>
                         </div>
                     </a>
-                    <a href="/"><div class="col-xs-2 col-md-2 col-lg-2 nav-logo"></div></a>
+                    <a href="/"><div class="col-xs-2 col-md-2 col-lg-2"><div class="nav-logo"></div></div></a>
                     <a>
-                        <div class="col-xs-2 col-md-2 col-lg-2 nav-block-news">
-                            <div class="nav-div">
-                                <span class="text-center">Новости</span>
-                            </div>
+                        <div class="col-xs-2 col-md-2 col-lg-2">
+                            <div class="nav-block-news">
+								<div class="nav-div">
+									<span class="text-center">Новости</span>
+								</div>
+							</div>
                         </div>
                     </a>
                     <a>
-                        <div class="col-xs-2 col-md-2 col-lg-2 nav-block-random">
-                            <div class="nav-div">
-                                <span class="text-center">Случайная</span>
-                            </div>
+                        <div class="col-xs-2 col-md-2 col-lg-2">
+                            <div class="nav-block-random">
+								<div class="nav-div">
+									<span class="text-center">Случайная</span>
+								</div>
+							</div>
                         </div>
                     </a>
                     <div class="col-xs-1 col-md-1 col-lg-1"></div>
@@ -71,32 +79,128 @@
         </header>
         <main class="content">
             <div class="row">
-                <div class="col-md-1 col-lg-1"></div>
+					<div class="col-md-1 col-lg-1"></div>
                     <a href="#">
-                        <div class="col-md-7 col-lg-7 main-news" style="background: url(img/aimg/gif1.gif) no-repeat;">
-                            <div class="newsPadding">
-                                <span class="tag-w text-center">Технологии</span>
-                            </div>
-                            <div class="main-title">
-                                <h3 class="main-h3">Россия создаст лунный 3D-принтер</h3>
-                                <p>Ученые разработают 3D-принтер для печати каменных объектов на поверхности Луны.</p>
-                            </div>
+                        <div class="col-md-7 col-lg-7 ">
+                            <div class="main-news" style="background: url(img/aimg/gif1.gif) no-repeat center center;">
+								<div class="newsPadding">
+									<span class="tag-w text-center">Технологии</span>
+								</div>
+								<div class="main-title">
+									<div class="mainTitleFooter">
+										<h3 class="">Россия создаст лунный 3D-принтер</h3>
+										<p>Ученые разработают 3D-принтер для печати каменных объектов на поверхности Луны.</p>
+									</div>
+								</div>
+							</div>
                         </div>
                     </a>
-                <div class="col-md-3 col-lg-3">
                     <a href="#">
-                        <div class="science-main main-news">
-                            <div class="newsPadding">
-                                <span class="tag-w text-center">Наука</span>
-                            </div>
-                            <div class="main-title">
-                                <h3 class="main-h3">Высоко сижу, далеко гляжу</h3>
-                            </div>
+                        <div class="col-md-3 col-lg-3">
+                            <div class="main-news" style="background: url(img/171ff7bd9d0553f225b83c7229b630a7.jpg) no-repeat;">
+								<div class="newsPadding">
+									<span class="tag-w text-center">Наука</span>
+								</div>
+								<div class="main-title">
+									<div class="mainTitleFooter">
+										<h3 class="">Высоко сижу, далеко гляжу</h3>
+									</div>
+								</div>								
+							</div>
                         </div>
                     </a>
-                </div>
-                <div class="col-md-1 col-lg-1"></div>
-            </div>
+					<div class="col-md-1 col-lg-1"></div>
+                
+			    <div class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1">
+                    <div class="row">
+                        <div class="col-md-4 col-lg-4 news">
+                            <a>
+                            <div class="news-body">
+                                <span class="time" title="2016-12-07">7 декабря</span>
+                                <h4 class="news-title">SpaceX отложила запуски до 2017 года</h4>
+                            </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <div class="news-body">
+                                <span class="time" title="2016-12-07">7 декабря</span>
+                                <h4 class="news-title">Орбитальный аппарат «ЭкзоМарс» сфотографировал Фобос</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <div class="news-body">
+                                <span class="time" title="2016-12-07">7 декабря</span>
+                                <h4 class="news-title">Спутники Sentinel-1 разглядели уходящий под землю небоскреб</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <div class="news-body">
+                                <span class="time" title="2016-12-06">6 декабря</span>
+                                <h4 class="news-title">ESA получит 1,4 миллиарда евро на марсоход и МКС</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <div class="news-body">
+                                <span class="time" title="2016-12-06">6 декабря</span>
+                                <h4 class="news-title">Орбитальный аппарат «ЭкзоМарс» сфотографировал Фобос</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <div class="news-body">
+                                <span class="time" title="2016-12-06">5 декабря</span>
+                                <h4 class="news-title">«Кассини» сделал «нырок» к F-кольцу Сатурна</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <div class="news-body">
+                                <span class="time" title="2016-12-07">7 декабря</span>
+                                <h4 class="news-title">Спутники Sentinel-1 разглядели уходящий под землю небоскреб</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <a>
+                                <div class="news-body">
+                                    <span class="time" title="2016-12-07">7 декабря</span>
+                                    <h4 class="news-title">SpaceX отложила запуски до 2017 года</h4>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-lg-4 news">
+                            <div class="news-body">
+                                <span class="time" title="2016-12-06">6 декабря</span>
+                                <h4 class="news-title">ESA получит 1,4 миллиарда евро на марсоход и МКС</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-lg-8 news">
+                            <div class="photo-day" style="background: url(img/569699.jpg) no-repeat">
+                                <div class="newsPadding">
+                                    <span class="tag-b text-center">Фото дня</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-4">
+                            <div class="row">
+                                <div class="col-md-12 col-lg-12 news">
+                                    <a>
+                                        <div class="news-body">
+                                            <span class="time" title="2016-12-07">7 декабря</span>
+                                            <h4 class="news-title">SpaceX отложила запуски до 2017 года</h4>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-md-12 col-lg-12 news">
+                                    <div class="news-body">
+                                        <span class="time" title="2016-12-06">6 декабря</span>
+                                        <h4 class="news-title">ESA получит 1,4 миллиарда евро на марсоход и МКС</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-lg-12">
+                            
+                        </div>
+                    </div>
+                    <div class="col-md-1 col-lg-1"></div>
         </main>
         <footer>
 
